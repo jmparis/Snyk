@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://101.ctf-snyk.io/
+HostUrl=https://de1bbdd6a6a447e299518f891aca1a74.s3.amazonaws.com/fd666e9b2da7d4e7ea76c986bd45fcad/index.js?response-content-disposition=attachment%3B%20filename%3Dindex.js&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYQYMCZZ43TV3JAMX%2F20221102%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221102T152908Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5d0b341273a8ad09ee2e2405228118391f4c61b260d8b365067c67fe0db886e3
